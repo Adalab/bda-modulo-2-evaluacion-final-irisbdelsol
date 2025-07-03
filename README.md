@@ -18,6 +18,7 @@ Desarrollo de Ejercicio 🔧
 Se compone de 17 ejercicios obligatorios y 8 extras como bonus, hechos exclusivamentede forma voluntaria.
 
 Los enunciados de cada ejercicio son los siguientes:
+
  1. Selecciona todos los nombres de las películas sin que aparezcan duplicados.
  2. Muestra los nombres de todas las películas que tengan una clasificación de "PG-13".
  3. Encuentra el título y la descripción de todas las películas que contengan la palabra "amazing" en su descripción.
@@ -37,6 +38,7 @@ Los enunciados de cada ejercicio son los siguientes:
  17. Encuentra el título de todas las películas que son "R" y tienen una duración mayor a 2 horas en la tabla film.
 
  BONUS
+ 
  18. Muestra el nombre y apellido de los actores que aparecen en más de 10 películas.
  19. Hay algún actor o actriz que no apareca en ninguna película en la tabla film_actor.
  20. Encuentra las categorías de películas que tienen un promedio de duración superior a 120 minutos y muestra el nombre de la categoría junto con el promedio de duración.
