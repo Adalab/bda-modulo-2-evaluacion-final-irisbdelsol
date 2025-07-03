@@ -3,6 +3,7 @@ Evaluación Módulo 2
 Ejercicio de Evaluación del Módulo 2 Base de datos Sakila
 
 Base de datos 🚀
+
 Para esta evaluación usamos la BBDD Sakila que simula una tienda de alquiler de películas. Contiene las siguientes tablas:
 
 film (películas).
@@ -13,6 +14,7 @@ category (categorías).
 Estas tablas contienen información sobre películas, actores, clientes, alquileres y más, y se utilizan para realizar consultas y análisis de datos en el contexto de una tienda de alquiler de películas.
 
 Desarrollo de Ejercicio 🔧
+
 Se compone de 17 ejercicios obligatorios y 8 extras como bonus, hechos exclusivamentede forma voluntaria.
 
 Los enunciados de cada ejercicio son los siguientes:
@@ -45,7 +47,9 @@ Los enunciados de cada ejercicio son los siguientes:
  25. Encuentra todos los actores que han actuado juntos en al menos una película. La consulta debe mostrar el nombre y apellido de los actores y el número de películas en las que han actuado juntos.
 
  Autora ✒️
+ 
  Iris Barredo del Sol (https://github.com/irisbdelsol/Modulo-2-Iris-Barredo-)
 
  Software Utilizado 📋
+ 
  El trabajo se ha desarrollado mediente el uso de MySQL Workbench.
